@@ -1,0 +1,27 @@
+img{
+    width: 25px;
+}
+
+body{
+    text-align: center;
+}
+
+
+
+h1{
+   margin-bottom: 70px;
+
+}
+
+button{
+    background-color: #a7d8ff;
+    width: 150px;
+    height: 70px;
+    border-radius: 30px;
+    font-size: 25px;
+}
+
+h2{
+    padding-top: 70px;
+}
+
